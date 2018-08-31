@@ -1,2 +1,1 @@
-def function():
-    return 1 + 2
+print("Hello World")
